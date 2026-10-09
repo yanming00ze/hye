@@ -19,7 +19,7 @@ Countdown
 ==========================================*/
 
 // 修改這裡即可設定活動結束時間
-const endTime = new Date("2026-07-20T23:59:59").getTime();
+const endTime = new Date("2026-10-15T23:59:59").getTime();
 const countdown = document.getElementById("countdown");
 
 function updateCountdown(){
